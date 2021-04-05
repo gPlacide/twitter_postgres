@@ -4,7 +4,7 @@
 
 You will repeat the Twitter/MapReduce assignment using Postgres.
 Because this assignment will involve many new programming concepts,
-it will be spread out over several assignments.
+it will be spread out over several assignment!
 
 In this first assignment, we will focus on:
 1. working with postgres from python
